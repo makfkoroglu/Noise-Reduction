@@ -1,7 +1,7 @@
-# Noise-Reduction
-Image Processing noise reduction operations on images.
-Using Methods:
--Gaussian
--Bilateral
--Median
--dst
+### Noise-Reduction
+#Image Processing noise reduction operations on images.
+Using Methods:</br>
+**-Gaussian**
+**-Bilateral**
+**-Median**
+**-dst**
